@@ -48,8 +48,3 @@ body {
     text-align: center;
     color:#5d5e5f
 }
-
-@media (width: 375px) {
-    display:grid;
-    place-items: center;
-}
